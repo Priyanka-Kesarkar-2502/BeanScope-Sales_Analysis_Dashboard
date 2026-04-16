@@ -1,0 +1,25 @@
+    #COFFEE SHOP SALES ANALYSIS
+
+Read below problem Statement very carefully
+*Problem Statement:
+	The main objective of this project is to analyze retail sales data to gain actionable insights that will enhance the performance of the Coffee Shop.Start Your Day With Coffee.
+
+# Reconimended Analysis
+1. How do sales vary by day of the werk and hour of the day?
+2. Are there any peak times for sales activity!
+3. What is the total sales revenue for each month
+4. How do sales vary across different store locations!
+5. what is the average price PER order AND  per person
+6. Which products are the best-selling in terms of aquantity and revenuel
+7. How do sales vary by product category and type
+
+# STEPS TO PERFORM:
+
+1. ETL (Extract - Transform - Load) data using power Query
+ i. import data in Power query
+ ii. Data Cleaning and preprocessing
+iii. Close and Load data into an Excel and Add data to data model
+2. Create pivot tables and Measures
+3. Create Charts 
+4. Add charts, KPI's, title and Slicers to a dashboard
+5. Finalize and Design your dashboard.
